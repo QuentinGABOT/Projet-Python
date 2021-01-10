@@ -1,0 +1,7 @@
+command to run the api, 
+in the shell
+go to the directory api and run this sequence of command:
+python3 -m venv monenv
+./monenv/Scripts/activate
+pip install -r requirements.txt 
+python app.py
