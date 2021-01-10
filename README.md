@@ -22,9 +22,11 @@ activer l'environnement avec la commande:
 ``` bash
 ./monenv/Scripts/activate
 ```
+Installers les librairies
 ``` bash
 pip install -r requirements.txt 
 ```
+Lancer l'application web
 ``` python
 python app.py
 ```
